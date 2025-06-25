@@ -1,6 +1,6 @@
 import React, { useContext, useState, useEffect, useRef } from "react";
 import { useSearchParams } from "react-router-dom";
-import { ProductContext } from "../contexts/productContext";
+import { ProductContext } from "../contexts/ProductContext";
 import { CartContext } from "../contexts/CartContext";
 import { toast } from "react-toastify";
 import heart from "../Images/heart.jpeg"

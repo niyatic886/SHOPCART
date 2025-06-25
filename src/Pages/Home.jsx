@@ -1,6 +1,6 @@
 
 import React, {useContext, useRef} from "react"
-import { ProductContext } from "../contexts/productContext"
+import { ProductContext } from "../contexts/ProductContext"
 import { Link } from "react-router-dom";
 import { useKeenSlider } from "keen-slider/react";
 import banner1 from '../Images/banner-image-1.jpg';
