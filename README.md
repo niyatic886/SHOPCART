@@ -37,13 +37,16 @@ An interactive and responsive e-commerce shopping cart web app built using **Rea
   
   ![snapshot5](./src/Images/shapshot5.jpeg)
 
-- **Tablet – 768px**  
-  ![snapshot2](./src/Images/snapshot2.jpeg)  
+- **Tablet – 768px**
+  
+  ![snapshot2](./src/Images/snapshot2.jpeg)
+   
   ![snapshot3](./src/Images/snapshot3.jpeg)
 
 - **Mobile – 425px**  
-  ![snapshot1](./src/Images/snapshot1.jpeg)  
-  ![snapshot2](./src/Images/snapshot2.jpeg)
+  ![snapshot1](./src/Images/snapshot1.jpeg)
+   
+  ![snapshot2](./src/Images/snapshot6.jpeg)
 
 ---
 
