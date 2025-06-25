@@ -1,12 +1,62 @@
-# React + Vite
+# 🛒 SHOPCART
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and responsive e-commerce shopping cart web app built using **React JS**. It allows users to browse products, add items to the cart, manage quantities, and view the total price dynamically — all within a smooth, single-page application experience.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [SHOPCART on Netlify](https://shopcart-shopping.netlify.app/)  
+📦 **GitHub Repo**: [SHOPCART GitHub](https://github.com/niyatic886/SHOPCART)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧾 View a list of products with image, title, and price
+- ➕ Add items to the cart
+- ➖ Remove items from the cart
+- 🔄 Adjust item quantities
+- 🧮 Automatic total price calculation
+- 🧼 Clear entire cart in one click
+- ⚡ Fast and responsive UI using React components
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** React JS (Hooks, Components)
+- **Styling:** CSS (Custom Styles)
+- **State Management:** useState, useEffect (React Hooks)
+- **Deployment:** Netlify
+
+---
+
+## 📸 Screenshots
+
+> You can add screenshots by uploading them in a folder like `/assets/screenshots/` and linking below:
+
+- 🏠 **Home Page**  
+  ![Home Page](./assets/screenshots/home.png)
+
+- 🛒 **Cart Functionality**  
+  ![Cart](./assets/screenshots/cart.png)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js & npm installed
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/niyatic886/SHOPCART.git
+
+# Navigate into the project directory
+cd SHOPCART
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
