@@ -1,6 +1,6 @@
 # 🛒 SHOPCART
 
-An interactive and responsive e-commerce shopping cart web app built using **React JS**. It allows users to browse products, add items to the cart, manage quantities, and view the total price dynamically — all within a smooth, single-page application experience.
+An interactive and responsive e-commerce shopping cart web app built using **React JS**. It allows users to browse products, add items to the cart, manage quantities, and view the total price dynamically — all within a smooth interaction. Implemented product fetching from the third-party API -> Fakestore API
 
 🔗 **Live Demo**: [SHOPCART on Netlify](https://shopcart-shopping.netlify.app/)  
 📦 **GitHub Repo**: [SHOPCART GitHub](https://github.com/niyatic886/SHOPCART)
@@ -30,15 +30,27 @@ An interactive and responsive e-commerce shopping cart web app built using **Rea
 
 ## 📸 Screenshots
 
-> You can add screenshots by uploading them in a folder like `/assets/screenshots/` and linking below:
 
-- 🏠 **Home Page**  
-  ![Home Page](./assets/screenshots/home.png)
 
-- 🛒 **Cart Functionality**  
-  ![Cart](./assets/screenshots/cart.png)
+-  **Laptop - 1024px**  
+  !(./Images/snapshot4.jpeg)
+  !(./Images/shapshot5.jpeg)
+
+-  **Tablet - 768px**  
+  !(./Images/snapshot2.jpeg)
+  !(./Images/snapshot3.jpeg)
+
+-  **Mobile - 425px**  
+  !(./Images/snapshot1.jpeg)
+  !(./Images/snapshot2.jpeg)
+
+## 📸 Video
+
+  !(./Images/video.mp4)
 
 ---
+
+
 
 ## 🚀 Getting Started
 
