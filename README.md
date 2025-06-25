@@ -28,25 +28,29 @@ An interactive and responsive e-commerce shopping cart web app built using **Rea
 
 ---
 
+
 ## 📸 Screenshots
 
+- **Laptop – 1024px**  
+  ![snapshot4](./Images/snapshot4.jpeg)  
+  ![snapshot5](./Images/shapshot5.jpeg)
 
+- **Tablet – 768px**  
+  ![snapshot2](./Images/snapshot2.jpeg)  
+  ![snapshot3](./Images/snapshot3.jpeg)
 
--  **Laptop - 1024px**  
-  (./src/Images/snapshot4.jpeg)
-  !(./Images/shapshot5.jpeg)
+- **Mobile – 425px**  
+  ![snapshot1](./Images/snapshot1.jpeg)  
+  ![snapshot2](./Images/snapshot2.jpeg)
 
--  **Tablet - 768px**  
-  !(./Images/snapshot2.jpeg)
-  !(./Images/snapshot3.jpeg)
+---
 
--  **Mobile - 425px**  
-  !(./Images/snapshot1.jpeg)
-  !(./Images/snapshot2.jpeg)
+## 🎥 Video
 
-## 📸 Video
+> GitHub doesn’t support embedding `.mp4` directly in markdown, but you can link it.
 
-  !(./Images/video.mp4)
+📽️ [Watch Demo Video](./Images/video.mp4)
+
 
 ---
 
